@@ -1,22 +1,22 @@
+this.articleNumber = 0;
+this.compareData = "";
+getCompareData();
+
 $(document).ready(function(){
-	animateInitialElements();
+	loadInitialElements();
 });
 
 $(window).scroll(function() {
 	if($(window).scrollTop() + $(window).height() >= $(document).height() - ($(document).height()/30)) {
-		var mainCompareElement = "<div class=\"main-compare\"><div class=\"main-compare-row row small-collapse medium-uncollapse\"><div class=\"news-article new small-12 medium-6 large-6 columns\"><div class=\"news-article-container\"><a href=\"http://www.cnn.com/2017/05/18/politics/donald-trump-robert-mueller-appointment/\" target=\"_blank\"><img class=\"news-article-img\" src=\"http://i2.cdn.turner.com/cnn/2017/images/05/08/trump-russia-interactive.jpg\"/></a><div class=\"news-article-title-link-container\"><h4 class=\"news-article-title\"><a class=\"news-article-title-link\" href=\"http://www.cnn.com/2017/05/18/politics/donald-trump-robert-mueller-appointment/\" target=\"_blank\">Trump says special counsel appointment 'hurts our country'</a></h4><a class=\"news-article-link\" href=\"http://www.cnn.com/2017/05/18/politics/donald-trump-robert-mueller-appointment/\" target=\"_blank\">Read the article on cnn.com ></a></div></div></div><!--<div class=\"date\"></div>--><div class=\"cheeto-tweet new small-12 medium-6 large-6 columns\"><div class=\"cheeto-tweet-container\"><blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">This is the single greatest witch hunt of a politician in American history!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/865173176854204416\">May 18, 2017</a></blockquote></div></div></div></div>";
-
-		//mainCompareElement.innerHTML = "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">This is the single greatest witch hunt of a politician in American history!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/865173176854204416\">May 18, 2017</a></blockquote><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>";
-		
-		//console.log(mainCompareElement);
-
-		$(".main-compare-container").append(mainCompareElement);
+		var newCompareElement = createNewCompareElement(this.articleNumber );
+		$(".main-compare-container").append(newCompareElement);
 		twttr.widgets.load(document.body); 
-		animateNewElements();
+		animateNewElements();	
+this.articleNumber ++;		
 	}
 });
 
-function animateInitialElements(){
+function loadInitialElements(){
 	var newsElements = $(".cheeto-tweet");   
 	var tweetElements = $(".news-article");  
 	if((newsElements.length == tweetElements.length) && newsElements.length > 0){
@@ -73,4 +73,38 @@ function slideFadeInRight(elem){
 		elem.style.opacity = opacity;
 		}
 	}
+}
+
+function createNewCompareElement(index){
+	var articleNumber = this.compareData[index].articleNumber;
+	var articleUrl = this.compareData[index].articleUrl;
+	var articleImageUrl = this.compareData[index].articleImageUrl;
+	var articleTitle = this.compareData[index].articleTitle;
+	var articleSubtitle = this.compareData[index].articleSubtitle;
+	var tweetHTML = this.compareData[index].tweetHTML;
+
+	var newCompareElement = "<div class=\"main-compare\"><div class=\"main-compare-row row small-collapse medium-uncollapse\"><div class=\"news-article new small-12 medium-6 large-6 columns\"><div class=\"news-article-container\"><a href=\"" + articleUrl + "\" target=\"_blank\"><img class=\"news-article-img\" src=\"" + articleImageUrl + "\"/></a><div class=\"news-article-title-link-container\"><h4 class=\"news-article-title\"><a class=\"news-article-title-link\" href=\"" + articleUrl + "\" target=\"_blank\">" + articleTitle + "</a></h4><a class=\"news-article-link\" href=\"" + articleUrl + "\" target=\"_blank\">" + articleSubtitle + "</a></div></div></div><!--<div class=\"date\"></div>--><div class=\"cheeto-tweet new small-12 medium-6 large-6 columns\"><div class=\"cheeto-tweet-container\">" + tweetHTML + "</div></div></div></div>";
+	
+	return newCompareElement;
+}
+
+function getCompareData(){
+	var response;
+
+	$.ajax ({
+		url: 'js/data.json',
+		dataType: 'json',
+		type: 'GET',
+		error: function(data){ 
+			console.log("Error retrieving data.");
+		}, 
+		success: function(data) {
+			response = JSON.parse(JSON.stringify(data));
+			setCompareData(response);
+		}  
+	});
+}
+
+function setCompareData(data){
+    this.compareData = data;
 }
