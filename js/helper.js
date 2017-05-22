@@ -1,44 +1,48 @@
-this.articleNumber = 0;
+this.articleNumber = -1;
 this.compareData = "";
-getCompareData();
+this.getCompareData();
 
 $(document).ready(function(){
-	loadInitialElements();
+	//this.loadInitialCompareElements();
 });
 
 $(window).scroll(function() {
 	if($(window).scrollTop() + $(window).height() >= $(document).height() - ($(document).height()/30)) {
-		var newCompareElement = createNewCompareElement(this.articleNumber );
-		$(".main-compare-container").append(newCompareElement);
-		twttr.widgets.load(document.body); 
-		animateNewElements();	
-this.articleNumber ++;		
+		this.appendNewCompareElement();
 	}
 });
 
-function loadInitialElements(){
-	var newsElements = $(".cheeto-tweet");   
-	var tweetElements = $(".news-article");  
-	if((newsElements.length == tweetElements.length) && newsElements.length > 0){
-		for(var i = 0; i < newsElements.length; i++){
-			slideFadeInBothElements(newsElements[i], tweetElements[i]);
-		}
+function loadInitialCompareElements(){
+	for(var i = 0; i < 3; i++){
+		console.log(i);
+		this.appendNewCompareElement();
+		this.animateNewCompareElements();
 	}
 }
 
-function animateNewElements(){
+function appendNewCompareElement(){
+	if(this.articleNumber < this.compareData.length-1){
+		this.articleNumber ++;		
+		var newCompareElement = this.createNewCompareElement(this.articleNumber);
+		$(".main-compare-container").append(newCompareElement);
+		twttr.widgets.load(document.body); 
+		this.animateNewCompareElements();
+	}
+}
+
+function animateNewCompareElements(){
 	var newsElements = $(".cheeto-tweet.new");   
 	var tweetElements = $(".news-article.new");  
 	if((newsElements.length == tweetElements.length) && newsElements.length > 0){
 		for(var i = 0; i < newsElements.length; i++){
-			slideFadeInBothElements(newsElements[i], tweetElements[i]);
+			this.slideFadeInBothCompareElements(newsElements[i], tweetElements[i]);
 		}
 	}
 }
 
-function slideFadeInBothElements(newsElem, tweetElem){
-	slideFadeInLeft(newsElem);
-	slideFadeInRight(tweetElem);
+function slideFadeInBothCompareElements(newsElem, tweetElem){
+	this.slideFadeInLeft(newsElem);
+	this.slideFadeInRight(tweetElem);
 }
 
 function slideFadeInLeft(elem){
@@ -82,15 +86,12 @@ function createNewCompareElement(index){
 	var articleTitle = this.compareData[index].articleTitle;
 	var articleSubtitle = this.compareData[index].articleSubtitle;
 	var tweetHTML = this.compareData[index].tweetHTML;
-
 	var newCompareElement = "<div class=\"main-compare\"><div class=\"main-compare-row row small-collapse medium-uncollapse\"><div class=\"news-article new small-12 medium-6 large-6 columns\"><div class=\"news-article-container\"><a href=\"" + articleUrl + "\" target=\"_blank\"><img class=\"news-article-img\" src=\"" + articleImageUrl + "\"/></a><div class=\"news-article-title-link-container\"><h4 class=\"news-article-title\"><a class=\"news-article-title-link\" href=\"" + articleUrl + "\" target=\"_blank\">" + articleTitle + "</a></h4><a class=\"news-article-link\" href=\"" + articleUrl + "\" target=\"_blank\">" + articleSubtitle + "</a></div></div></div><!--<div class=\"date\"></div>--><div class=\"cheeto-tweet new small-12 medium-6 large-6 columns\"><div class=\"cheeto-tweet-container\">" + tweetHTML + "</div></div></div></div>";
-	
 	return newCompareElement;
 }
 
 function getCompareData(){
 	var response;
-
 	$.ajax ({
 		url: 'js/data.json',
 		dataType: 'json',
@@ -100,11 +101,12 @@ function getCompareData(){
 		}, 
 		success: function(data) {
 			response = JSON.parse(JSON.stringify(data));
-			setCompareData(response);
+			self.setCompareData(response);
 		}  
 	});
 }
 
 function setCompareData(data){
     this.compareData = data;
+	this.loadInitialCompareElements();
 }
