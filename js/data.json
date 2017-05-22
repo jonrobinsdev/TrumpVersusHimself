@@ -1,5 +1,6 @@
 [
 	{ 
+		"articleNo":1,
 		"articleDate":"05/18/2017",
 		"articleUrl":"http://www.cnn.com/2017/05/18/politics/donald-trump-robert-mueller-appointment/", 
 		"articleImageUrl":"http://i2.cdn.turner.com/cnn/2017/images/05/08/trump-russia-interactive.jpg", 
@@ -8,6 +9,7 @@
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">If I win-I am going to instruct my AG to get a special prosecutor to look into your situation bc there&#39;s never been anything like your lies.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/785290517835841536\">October 10, 2016</a></blockquote>"
 	},
 	{ 
+		"articleNo":2,
 		"articleDate":"05/15/2017",
 		"articleUrl":"https://www.washingtonpost.com/world/national-security/trump-revealed-highly-classified-information-to-russian-foreign-minister-and-ambassador/2017/05/15/530c172a-3960-11e7-9e48-c4f199710b69_story.html?utm_term=.7495ce35c4a2", 
 		"articleImageUrl":"https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2017/03/31/National-Security/Graphics/2300-trump-russia-promo.jpg?uuid=BlFWahYlEee7FiaZNBhBaA", 
@@ -15,7 +17,8 @@
 		"articleSubtitle":"Read the article on washingtonpost.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Crooked Hillary Clinton and her team &quot;were extremely careless in their handling of very sensitive, highly classified information.&quot; Not fit!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/750648675186147328\">July 6, 2016</a></blockquote>"
 	},
-	{ 
+	{
+		"articleNo":3,	
 		"articleDate":"01/22/2017",
 		"articleUrl":"https://www.nytimes.com/2017/01/22/us/politics/donald-trump-tax-returns.html", 
 		"articleImageUrl":"https://static01.nyt.com/images/2017/01/23/us/23trumptaxes_web1/23trumptaxes_web1-master768.jpg", 
@@ -24,6 +27,7 @@
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Obama has no problem leaking national security secrets.  Why can&#39;t he release his records?  Especially when $5M is going to charity.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/261221579399245825\">October 24, 2012</a></blockquote>"
 	},
 	{ 
+		"articleNo":4,
 		"articleDate":"05/21/2017",
 		"articleUrl":"https://www.wsj.com/articles/saudi-arabia-u-a-e-pledge-100-million-to-world-banks-women-entrepreneurs-fund-1495339028", 
 		"articleImageUrl":"https://heavyeditorial.files.wordpress.com/2017/05/gettyimages-685748148.jpg?quality=65&strip=all&w=780&strip=all", 
@@ -31,7 +35,8 @@
 		"articleSubtitle":"Read the article on cnn.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Dopey Prince <a href=\"https://twitter.com/Alwaleed_Talal\">@Alwaleed_Talal</a> wants to control our U.S. politicians with daddy’s money. Can’t do it when I get elected. <a href=\"https://twitter.com/hashtag/Trump2016?src=hash\">#Trump2016</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/675523728055410689\">December 12, 2015</a></blockquote>"
 	},
-	{ 
+	{
+		"articleNo":5,	
 		"articleDate":"04/23/2017",
 		"articleUrl":"https://www.washingtonpost.com/politics/nearing-100-days-trumps-approval-at-record-lows-but-his-base-is-holding/2017/04/22/a513a466-26b4-11e7-b503-9d616bd5a305_story.html?utm_term=.0c6c7a89c01a", 
 		"articleImageUrl":"https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2017/04/23/National-Politics/Graphics/2300-trump-100-day-poll-nowordpromo2.jpg?uuid=TEbABCfZEeeSjjYkU5Bg6A", 
@@ -40,6 +45,7 @@
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Former President Jimmy Carter is so happy that he is no longer considered the worst President in the history of the United States!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/376323127393136641\">September 7, 2013</a></blockquote>"
 	},
 	{ 
+		"articleNo":6,
 		"articleDate":"05/17/2017",
 		"articleUrl":"http://www.cnn.com/2017/05/17/politics/al-green-impeachment-call/", 
 		"articleImageUrl":"http://i2.cdn.cnn.com/cnnnext/dam/assets/170517144311-02-clinton-trump-nixon-split-gfxsplit-medium-plus-169.jpg", 
@@ -48,6 +54,7 @@
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Are you allowed to impeach a president for gross incompetence?</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/474134260149157888\">June 4, 2014</a></blockquote>"
 	},
 	{
+		"articleNo":7,
 		"articleDate":"05/20/2017",
 		"articleUrl":"http://www.nbcnews.com/storyline/trumps-first-foreign-trip/melania-ivanka-trump-forgo-headscarves-saudi-arabia-despite-past-trump-n762581", 
 		"articleImageUrl":"https://media1.s-nbcnews.com/j/newscms/2017_20/2007051/170520-michelle-obama-melania-trump-se451p_6f3b697e606f973182ba57093d69a5de.nbcnews-ux-320-320.jpg", 
@@ -56,6 +63,7 @@
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Many people are saying it was wonderful that Mrs. Obama refused to wear a scarf in Saudi Arabia, but they were insulted.We have enuf enemies</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/560839957426999297\">January 29, 2015</a></blockquote>"
 	},
 	{
+		"articleNo":8,
 		"articleDate":"05/05/1994",
 		"articleUrl":"", 
 		"articleImageUrl":"", 
@@ -64,6 +72,7 @@
 		"tweetHTML":""
 	},
 	{
+		"articleNo":9,
 		"articleDate":"05/05/1994",
 		"articleUrl":"", 
 		"articleImageUrl":"", 
@@ -72,6 +81,7 @@
 		"tweetHTML":""
 	},
 	{
+		"articleNo":10,
 		"articleDate":"05/05/1994",
 		"articleUrl":"", 
 		"articleImageUrl":"", 
@@ -80,6 +90,7 @@
 		"tweetHTML":""
 	},
 	{
+		"articleNo":1,
 		"articleDate":"05/05/1994",
 		"articleUrl":"", 
 		"articleImageUrl":"", 
@@ -88,6 +99,7 @@
 		"tweetHTML":""
 	},
 	{
+		"articleNo":12,
 		"articleDate":"05/05/1994",
 		"articleUrl":"", 
 		"articleImageUrl":"", 
@@ -96,6 +108,7 @@
 		"tweetHTML":""
 	},
 	{
+		"articleNo":13,
 		"articleDate":"05/05/1994",
 		"articleUrl":"", 
 		"articleImageUrl":"", 

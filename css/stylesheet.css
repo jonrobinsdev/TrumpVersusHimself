@@ -12,6 +12,15 @@ body {
 hr{
 }
 
+@keyframes slideInFromLeft {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
 blockquote.twitter-tweet {
   display: inline-block;
   font-family: "Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif;
@@ -54,7 +63,7 @@ blockquote.twitter-tweet a:focus {
 .header{
     position:relative;
     width: 99vw;
-    height: 15vh;
+    height: 18vh;
 	display: inline-block;
 	margin-bottom: 5%;
     background-color: #126BBF;
@@ -79,7 +88,7 @@ blockquote.twitter-tweet a:focus {
 }
 
 .title{
-    margin-left: 8%;
+    margin-left: 6.5%;
     margin-right: 5%;
     font-size: 6vh;
     text-align: center;
@@ -134,18 +143,19 @@ blockquote.twitter-tweet a:focus {
 	background-color: white;
 	margin-left: 7%;
 	margin-right: 7%;
-	padding-top: 5%;
-	padding-bottom: 5%;
+	padding-top: 6%;
+	padding-bottom: 6%;
 	border-radius: 5px;
 	border-style: solid;
 	border-color: #bebebe;
 	border-width: 1.5px;
 	box-shadow: 0px 0.5px 2px rgba(0, 0, 0, 0.15);
+	overflow-y: auto;
 }
 
 .news-article-img{
 	height:auto;
-	width: 60%;
+	width: 50%;
 	position: relative;
 	left: 50%;
     transform: translateX(-50%);
@@ -153,14 +163,20 @@ blockquote.twitter-tweet a:focus {
 }
 
 .news-article-title-link-container{
-	width: 60%;
+	width: 80%;
 	position: relative;
 	left: 50%;
     transform: translateX(-50%);
+	text-align:center;
 }
 
 .news-article-title-link{
 	color: black;
+    overflow: hidden;	
+}
+
+.news-article-link{
+	text-decoration: underline;
 }
 
 .cheeto-tweet{

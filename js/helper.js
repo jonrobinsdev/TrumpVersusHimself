@@ -15,7 +15,6 @@ $(window).scroll(function() {
 function loadInitialCompareElements(){
 	for(var i = 0; i < 3; i++){
 		this.appendNewCompareElement();
-		this.animateNewCompareElements();
 	}
 }
 
@@ -34,48 +33,24 @@ function animateNewCompareElements(){
 	var tweetElements = $(".news-article.new");  
 	if((newsElements.length == tweetElements.length) && newsElements.length > 0){
 		for(var i = 0; i < newsElements.length; i++){
-			this.slideFadeInBothCompareElements(newsElements[i], tweetElements[i]);
+			slideInBothCompareElements()
 		}
 	}
 }
 
-function slideFadeInBothCompareElements(newsElem, tweetElem){
-	this.slideFadeInLeft(tweetElem);
-	this.slideFadeInRight(newsElem);
+function slideInBothCompareElements(){
+	slideInLeft();
+	slideInRight();
 }
 
-function slideFadeInLeft(elem){
-	elem.classList.remove("new");
-	var pos = 350;
-	var opacity = 0;
-	var id = setInterval(frame, 10);
-	function frame() {
-		if (pos <= 0) {
-		clearInterval(id);
-		} else {
-		pos -= 5; 
-		opacity = (350 - pos)/350;
-		elem.style.left = pos + 'px'; 
-		elem.style.opacity = opacity;
-		}
-	}
+function slideInLeft(){
+	$(".cheeto-tweet.new").addClass('animated fadeInLeft');
+	$(".cheeto-tweet.new").removeClass('new');
 }
 
-function slideFadeInRight(elem){
-	elem.classList.remove("new");
-	var pos = -350;
-	var opacity = 0;
-	var id = setInterval(frame, 10);
-	function frame() {
-		if (pos >= 0) {
-		clearInterval(id);
-		} else {
-		pos += 5; 
-		opacity = (-350 - pos)/-350;
-		elem.style.left = pos + 'px'; 
-		elem.style.opacity = opacity;
-		}
-	}
+function slideInRight(){
+	$(".news-article.new").addClass('animated fadeInRight');
+	$(".news-article.new").removeClass('new');
 }
 
 function createNewCompareElement(index){
