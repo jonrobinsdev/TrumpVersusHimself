@@ -1,6 +1,6 @@
 [
 	{ 
-		"articleNumber":1,
+		"articleDate":"05/18/2017",
 		"articleUrl":"http://www.cnn.com/2017/05/18/politics/donald-trump-robert-mueller-appointment/", 
 		"articleImageUrl":"http://i2.cdn.turner.com/cnn/2017/images/05/08/trump-russia-interactive.jpg", 
 		"articleTitle":"Trump says special counsel appointment 'hurts our country'",
@@ -8,7 +8,7 @@
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">This is the single greatest witch hunt of a politician in American history!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/865173176854204416\">May 18, 2017</a></blockquote>"
 	},
 	{ 
-		"articleNumber":2,
+		"articleDate":"01/02/2017",
 		"articleUrl":"http://www.cnn.com/2017/05/18/politics/donald-trump-robert-mueller-appointment/", 
 		"articleImageUrl":"http://i2.cdn.turner.com/cnn/2017/images/05/08/trump-russia-interactive.jpg", 
 		"articleTitle":"WUBLALBUBA DUB DUB",
@@ -16,7 +16,7 @@
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">This is the single greatest witch hunt of a politician in American history!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/865173176854204416\">May 18, 2017</a></blockquote>"
 	},
 	{ 
-		"articleNumber":3,
+		"articleDate":"05/12/2017",
 		"articleUrl":"http://www.cnn.com/2017/05/18/politics/donald-trump-robert-mueller-appointment/", 
 		"articleImageUrl":"http://i2.cdn.turner.com/cnn/2017/images/05/08/trump-russia-interactive.jpg", 
 		"articleTitle":"RICKY TICKY TAVI",
@@ -24,7 +24,7 @@
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">This is the single greatest witch hunt of a politician in American history!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/865173176854204416\">May 18, 2017</a></blockquote>"
 	},
 	{ 
-		"articleNumber":4,
+		"articleDate":"04/18/2016",
 		"articleUrl":"http://www.cnn.com/2017/05/18/politics/donald-trump-robert-mueller-appointment/", 
 		"articleImageUrl":"http://i2.cdn.turner.com/cnn/2017/images/05/08/trump-russia-interactive.jpg", 
 		"articleTitle":"MILK IS GOOD YO",
@@ -32,7 +32,7 @@
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">This is the single greatest witch hunt of a politician in American history!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/865173176854204416\">May 18, 2017</a></blockquote>"
 	},
 	{ 
-		"articleNumber":5,
+		"articleDate":"05/17/2017",
 		"articleUrl":"http://www.cnn.com/2017/05/18/politics/donald-trump-robert-mueller-appointment/", 
 		"articleImageUrl":"http://i2.cdn.turner.com/cnn/2017/images/05/08/trump-russia-interactive.jpg", 
 		"articleTitle":"PPOOOP! POOP ON EVERYTHING!",

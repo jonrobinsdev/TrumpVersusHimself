@@ -14,7 +14,6 @@ $(window).scroll(function() {
 
 function loadInitialCompareElements(){
 	for(var i = 0; i < 3; i++){
-		console.log(i);
 		this.appendNewCompareElement();
 		this.animateNewCompareElements();
 	}
@@ -80,7 +79,7 @@ function slideFadeInRight(elem){
 }
 
 function createNewCompareElement(index){
-	var articleNumber = this.compareData[index].articleNumber;
+	var articleDate = this.compareData[index].articleDate;
 	var articleUrl = this.compareData[index].articleUrl;
 	var articleImageUrl = this.compareData[index].articleImageUrl;
 	var articleTitle = this.compareData[index].articleTitle;
@@ -101,9 +100,15 @@ function getCompareData(){
 		}, 
 		success: function(data) {
 			response = JSON.parse(JSON.stringify(data));
+			response.sort(dateSort);
+			console.log(response);
 			self.setCompareData(response);
 		}  
 	});
+}
+
+function dateSort(a, b) {
+    return new Date(b.articleDate).getTime() - new Date(a.articleDate).getTime();
 }
 
 function setCompareData(data){
