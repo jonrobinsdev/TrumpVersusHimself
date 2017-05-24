@@ -60,15 +60,19 @@ blockquote.twitter-tweet a:focus {
     src: url(../fonts/VengeanceRegular.otf) format("truetype");
 }
 
+@font-face {
+    font-family: "Antonio-Regular";
+    src: url(../fonts/Antonio-Regular.ttf) format("truetype");
+}
+
 .header{
     position:relative;
-    width: 99vw;
+    width: 99.1vw;
     height: 35vh;
 	display: inline-block;
 	border-color: #eee #ddd #bbb;
 	border-style: solid;
 	border-width: 2px;
-	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
 	background-image: url("../i/trump-phone.png");
     background-size: cover;
 	background-position: right center;
@@ -118,11 +122,13 @@ blockquote.twitter-tweet a:focus {
 }
 
 .date{
+	font-family: "Antonio-Regular", "VengeanceRegular", Tahoma, Verdana, Arial;
 	position: relative;
 	font-size: 2em;
 	padding-bottom: 3%;
 	color: white;
 	text-shadow: 1px 1px 2px black;
+	text-decoration: underline;
 }
 
 /*.fancy {
@@ -260,23 +266,63 @@ blockquote.twitter-tweet a:focus {
 	box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.30);
 }
 
-@media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
-	/*.main-compare-row{
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) {
+	.title{
+		margin-left: 20%;
+		margin-right: 20%;
+	}
+	.main-compare-row{
 		width: 90%;
 	}
 	.cheeto-tweet{
-		margin-bottom: 10%;
-	}*/
+		margin-bottom: 15%
+	}
+	.news-article{
+		margin-bottom: 7%
+	}
 }
-@media (min-width:480px)  { /* smartphones, Android phones, landscape iPhone */ 
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (mimaxn-width : 480px) {
+	.title{
+		margin-left: 20%;
+		margin-right: 20%;
+	}
+	.main-compare-row{
+		width: 90%;
+	}
+	.cheeto-tweet{
+		margin-bottom: 15%
+	}
+	.news-article{
+		margin-bottom: 7%
+	}
 }
-@media (min-width:600px)  { /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */ 
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.title{
+		margin-left: 20%;
+		margin-right: 20%;
+	}
+	.main-compare-row{
+		width: 90%;
+	}
+	.cheeto-tweet{
+		margin-bottom: 10%
+	}
+	.news-article{
+		margin-bottom: 7%
+	}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
 
 }
-@media (min-width:801px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ 
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
 
 }
-@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ 
-
-}
-@media (min-width:1281px) { /* hi-res laptops and desktops */ }
