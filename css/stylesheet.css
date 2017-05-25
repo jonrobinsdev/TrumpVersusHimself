@@ -2,6 +2,7 @@ html{
 }
 
 body, html {
+	background-color: #4286F5;
 }
 
 body {
@@ -268,6 +269,10 @@ blockquote.twitter-tweet a:focus {
 	border-style: solid;
 	border-width: 2px;
 	box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.30);
+}
+
+.EmbeddedTweet-tweet{
+	height: 95% !important;
 }
 
 /* Custom, iPhone Retina */ 
