@@ -3,7 +3,7 @@
 		"articleNo":1,
 		"articleDate":"05/18/2017",
 		"articleUrl":"http://www.cnn.com/2017/05/18/politics/donald-trump-robert-mueller-appointment/", 
-		"articleImageUrl":"i/news-article-thumbnails/1.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/1.png", 
 		"articleTitle":"Trump says special counsel appointment 'hurts our country'",
 		"articleSubtitle":"Read the article on cnn.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">If I win-I am going to instruct my AG to get a special prosecutor to look into your situation bc there&#39;s never been anything like your lies.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/785290517835841536\">October 10, 2016</a></blockquote>"
@@ -12,7 +12,7 @@
 		"articleNo":2,
 		"articleDate":"05/15/2017",
 		"articleUrl":"https://www.washingtonpost.com/world/national-security/trump-revealed-highly-classified-information-to-russian-foreign-minister-and-ambassador/2017/05/15/530c172a-3960-11e7-9e48-c4f199710b69_story.html?utm_term=.7495ce35c4a2", 
-		"articleImageUrl":"i/news-article-thumbnails/2.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/2.png", 
 		"articleTitle":"Trump revealed highly classified information to Russian foreign minister and ambassador",
 		"articleSubtitle":"Read the article on washingtonpost.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Crooked Hillary Clinton and her team &quot;were extremely careless in their handling of very sensitive, highly classified information.&quot; Not fit!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/750648675186147328\">July 6, 2016</a></blockquote>"
@@ -21,7 +21,7 @@
 		"articleNo":3,	
 		"articleDate":"01/22/2017",
 		"articleUrl":"https://www.nytimes.com/2017/01/22/us/politics/donald-trump-tax-returns.html", 
-		"articleImageUrl":"i/news-article-thumbnails/3.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/3.png", 
 		"articleTitle":"Trump Won’t Release His Tax Returns, a Top Aide Says",
 		"articleSubtitle":"Read the article on nytimes.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Obama has no problem leaking national security secrets.  Why can&#39;t he release his records?  Especially when $5M is going to charity.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/261221579399245825\">October 24, 2012</a></blockquote>"
@@ -30,7 +30,7 @@
 		"articleNo":4,
 		"articleDate":"05/21/2017",
 		"articleUrl":"https://www.wsj.com/articles/saudi-arabia-u-a-e-pledge-100-million-to-world-banks-women-entrepreneurs-fund-1495339028", 
-		"articleImageUrl":"i/news-article-thumbnails/4.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/4.png", 
 		"articleTitle":"Saudi Arabia, U.A.E. Pledge $100 Million to World Bank’s Women Entrepreneurs Fund",
 		"articleSubtitle":"Read the article on cnn.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Dopey Prince <a href=\"https://twitter.com/Alwaleed_Talal\">@Alwaleed_Talal</a> wants to control our U.S. politicians with daddy’s money. Can’t do it when I get elected. <a href=\"https://twitter.com/hashtag/Trump2016?src=hash\">#Trump2016</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/675523728055410689\">December 12, 2015</a></blockquote>"
@@ -39,7 +39,7 @@
 		"articleNo":5,	
 		"articleDate":"04/23/2017",
 		"articleUrl":"https://www.washingtonpost.com/politics/nearing-100-days-trumps-approval-at-record-lows-but-his-base-is-holding/2017/04/22/a513a466-26b4-11e7-b503-9d616bd5a305_story.html?utm_term=.0c6c7a89c01a", 
-		"articleImageUrl":"i/news-article-thumbnails/5.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/5.png", 
 		"articleTitle":"Nearing 100 days, Trump’s approval at record lows but his base is holding",
 		"articleSubtitle":"Read the article on washingtonpost.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Former President Jimmy Carter is so happy that he is no longer considered the worst President in the history of the United States!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/376323127393136641\">September 7, 2013</a></blockquote>"
@@ -48,7 +48,7 @@
 		"articleNo":6,
 		"articleDate":"05/17/2017",
 		"articleUrl":"http://www.cnn.com/2017/05/17/politics/al-green-impeachment-call/", 
-		"articleImageUrl":"i/news-article-thumbnails/6.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/6.png", 
 		"articleTitle":"Congressman calls for Trump's impeachment on House floor",
 		"articleSubtitle":"Read the article on cnn.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Are you allowed to impeach a president for gross incompetence?</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/474134260149157888\">June 4, 2014</a></blockquote>"
@@ -57,7 +57,7 @@
 		"articleNo":7,
 		"articleDate":"05/20/2017",
 		"articleUrl":"http://www.nbcnews.com/storyline/trumps-first-foreign-trip/melania-ivanka-trump-forgo-headscarves-saudi-arabia-despite-past-trump-n762581", 
-		"articleImageUrl":"i/news-article-thumbnails/7.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/7.png", 
 		"articleTitle":"Melania, Ivanka Trump Forgo Headscarves in Saudi Arabia — Despite Past Trump Criticism",
 		"articleSubtitle":"Read the article on nbcnews.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Many people are saying it was wonderful that Mrs. Obama refused to wear a scarf in Saudi Arabia, but they were insulted.We have enuf enemies</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/560839957426999297\">January 29, 2015</a></blockquote>"
@@ -66,7 +66,7 @@
 		"articleNo":8,
 		"articleDate":"05/22/2017",
 		"articleUrl":"http://www.independent.co.uk/news/world/americas/donald-trump-exhausted-skipped-saudi-arabia-forum-social-media-sends-ivanka-trump-israel-a7748546.html", 
-		"articleImageUrl":"i/news-article-thumbnails/8.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/8.png", 
 		"articleTitle":"Donald Trump drops out of Saudi Arabia event due to 'exhaustion'",
 		"articleSubtitle":"Read the article on independent.co.uk >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Hillary Clinton doesn&#39;t have the strength or stamina to be president. Jeb Bush is a low energy individual, but Hillary is not much better!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/683377290282156032\">January 2, 2016</a></blockquote>"
@@ -75,7 +75,7 @@
 		"articleNo":9,
 		"articleDate":"05/22/2017",
 		"articleUrl":"http://abcnews.go.com/Politics/michael-flynn-amendment-decline-senate-subpoena/story?id=47560095", 
-		"articleImageUrl":"i/news-article-thumbnails/9.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/9.png", 
 		"articleTitle":"Michael Flynn to take the 5th Amendment and decline Senate subpoena",
 		"articleSubtitle":"Read the article on abcnews.go.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">I am no fan of Bill Cosby but never-the-less some free advice - if you are innocent, do not remain silent. You look guilty as hell!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/535415461270536192\">November 20, 2014</a></blockquote>"
@@ -84,7 +84,7 @@
 		"articleNo":10,
 		"articleDate":"01/26/2017",
 		"articleUrl":"http://www.bbc.com/news/world-us-canada-38740717", 
-		"articleImageUrl":"i/news-article-thumbnails/10.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/10.png", 
 		"articleTitle":"Trump orders wall to be built on Mexico border",
 		"articleSubtitle":"Read the article on bbc.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"es\"><p lang=\"en\" dir=\"ltr\">“We build too many walls and not enough bridges.” - Isaac Newton</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/387309175866290176\">7 de octubre de 2013</a></blockquote>"
@@ -93,7 +93,7 @@
 		"articleNo":11,
 		"articleDate":"05/05/2017",
 		"articleUrl":"http://www.msnbc.com/rachel-maddow-show/intelligence-briefings-trump-prefers-little-possible", 
-		"articleImageUrl":"i/news-article-thumbnails/11.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/11.png", 
 		"articleTitle":"In intelligence briefings, Trump prefers ‘as little as possible’",
 		"articleSubtitle":"Read the article on msnbc.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Fact--Obama does not read his intelligence briefings nor does he get briefed in person by the CIA or DOD. Too busy I guess!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/517045156826988544\">September 30, 2014</a></blockquote>"
@@ -102,7 +102,7 @@
 		"articleNo":12,
 		"articleDate":"05/16/2017",
 		"articleUrl":"http://www.independent.co.uk/news/world/americas/us-politics/trump-russia-leak-latest-news-president-did-not-know-source-president-classified-information-white-a7739286.html", 
-		"articleImageUrl":"i/news-article-thumbnails/12.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/12.png", 
 		"articleTitle":"Donald Trump 'not even aware of where intelligence was from' before telling Russia, White House reveals",
 		"articleSubtitle":"Read the article on independent.co.uk >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Lyin&#39; Hillary Clinton told the FBI that she did not know the &quot;C&quot; markings on documents stood for CLASSIFIED. How can this be happening?</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/772582467601588224\">September 4, 2016</a></blockquote>"
@@ -111,7 +111,7 @@
 		"articleNo":13,
 		"articleDate":"04/15/2017",
 		"articleUrl":"http://www.washingtonexaminer.com/trump-visits-golf-course-for-19th-time-as-president/article/2620370", 
-		"articleImageUrl":"i/news-article-thumbnails/13.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/13.png", 
 		"articleTitle":"Trump visits golf course for 19th time as president",
 		"articleSubtitle":"Read the article on washingtonexaminer.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">While our wonderful president was out playing golf all day, the TSA is falling apart, just like our government! Airports a total disaster!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/733974704445358080\">May 21, 2016</a></blockquote>"
@@ -120,7 +120,7 @@
 		"articleNo":14,
 		"articleDate":"05/16/2017",
 		"articleUrl":"http://www.bbc.com/news/world-us-canada-38966846", 
-		"articleImageUrl":"i/news-article-thumbnails/14.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/14.png", 
 		"articleTitle":"Russia: The scandal Trump can't shake",
 		"articleSubtitle":"Read the article bbc.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Russian leaders are publicly celebrating Obama&#39;s reelection.  They can&#39;t wait to see how flexible Obama will be now.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/266618875758645248\">November 8, 2012</a></blockquote>"
@@ -129,7 +129,7 @@
 		"articleNo":15,
 		"articleDate":"12/19/2016",
 		"articleUrl":"http://www.politico.com/story/2016/12/trump-electoral-college-win-democrats-infighting-232814", 
-		"articleImageUrl":"i/news-article-thumbnails/15.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/15.png", 
 		"articleTitle":"Trump wins Electoral College vote",
 		"articleSubtitle":"Read the article on politico.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">The electoral college is a disaster for a democracy.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/266038556504494082\">November 7, 2012</a></blockquote>"
@@ -138,7 +138,7 @@
 		"articleNo":16,
 		"articleDate":"05/22/2017",
 		"articleUrl":"http://www.independent.co.uk/news/world/middle-east/donald-trump-saudi-arabia-radical-islamic-terrorism-muslims-soften-tone-iran-palestinians-israel-a7748541.html", 
-		"articleImageUrl":"i/news-article-thumbnails/16.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/16.png", 
 		"articleTitle":"Donald Trump drops phrase ‘radical Islamic terrorism’ on Saudi Arabia trip to soften tone on Muslims",
 		"articleSubtitle":"Read the article on independent.co.uk >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">With Hillary and Obama, the terrorist attacks will only get worse. Politically correct fools, won&#39;t even call it what it is - RADICAL ISLAM!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/749989709275885568\">July 4, 2016</a></blockquote>"
@@ -147,7 +147,7 @@
 		"articleNo":17,
 		"articleDate":"05/10/2017",
 		"articleUrl":"http://www.cnn.com/2016/05/09/politics/donald-trump-national-debt-strategy/", 
-		"articleImageUrl":"i/news-article-thumbnails/17.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/17.png", 
 		"articleTitle":"Trump: U.S. will never default 'because you print the money'",
 		"articleSubtitle":"Read the article on cnn.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">The Fed continues to flood the market with US dollars. Wrong move.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/101373840323645440\">August 10, 2011</a></blockquote>"
@@ -156,7 +156,7 @@
 		"articleNo":18,
 		"articleDate":"04/10/2017",
 		"articleUrl":"http://www.salon.com/2017/04/10/donald-trumps-approval-ratings-are-up-because-he-bombed-a-foreign-country/", 
-		"articleImageUrl":"i/news-article-thumbnails/18.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/18.png", 
 		"articleTitle":"Donald Trump’s approval ratings are up because he bombed a foreign country",
 		"articleSubtitle":"Read the article on salon.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Now that Obama’s poll numbers are in tailspin – watch for him to launch a strike in Libya or Iran.  He is desperate.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/255784560904773633\">October 9, 2012</a></blockquote>"
@@ -165,7 +165,7 @@
 		"articleNo":19,
 		"articleDate":"03/07/2017",
 		"articleUrl":"https://www.bostonglobe.com/news/politics/2017/03/07/trump-makes-early-morning-comments-criticize-obama-policies/YEGjIIrSjmyC725iJzBqhM/story.html", 
-		"articleImageUrl":"i/news-article-thumbnails/19.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/19.png", 
 		"articleTitle":"Trump’s early morning Tweets criticize Obama",
 		"articleSubtitle":"Read the article on bostonglobe.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Isn&#39;t it crazy that people of little or no talent or success can be so critical of those whose accomplishments are great with no retribution</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/357836961605627907\">July 18, 2013</a></blockquote>"
@@ -174,7 +174,7 @@
 		"articleNo":20,
 		"articleDate":"05/22/2017",
 		"articleUrl":"http://thehill.com/policy/healthcare/334638-trump-budget-to-call-for-610-billion-in-medicaid-cuts", 
-		"articleImageUrl":"i/news-article-thumbnails/20.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/20.png", 
 		"articleTitle":"Trump budget to call for $610 billion in Medicaid cuts",
 		"articleSubtitle":"Read the article on thehill.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">I was the first &amp; only potential GOP candidate to state there will be no cuts to Social Security, Medicare &amp; Medicaid. Huckabee copied me.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/596338364187602944\">May 7, 2015</a></blockquote>"
@@ -183,7 +183,7 @@
 		"articleNo":21,
 		"articleDate":"04/07/2017",
 		"articleUrl":"http://www.nbcnews.com/politics/white-house/trump-why-i-launched-missile-attack-syria-n743656", 
-		"articleImageUrl":"i/news-article-thumbnails/21.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/21.png", 
 		"articleTitle":"Trump: Why I Launched a Missile Strike on Syria",
 		"articleSubtitle":"Read the article on nbcnews.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">AGAIN, TO OUR VERY FOOLISH LEADER, DO NOT ATTACK SYRIA - IF YOU DO MANY VERY BAD THINGS WILL HAPPEN &amp; FROM THAT FIGHT THE U.S. GETS NOTHING!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/375609403376144384\">September 5, 2013</a></blockquote>"
@@ -192,7 +192,7 @@
 		"articleNo":22,
 		"articleDate":"05/20/2017",
 		"articleUrl":"https://www.washingtonpost.com/news/the-fix/wp/2017/05/20/trump-mocked-obama-for-bowing-to-a-saudi-king-and-then-he/?tid=sm_tw&utm_term=.b9e4d8a9aba5", 
-		"articleImageUrl":"i/news-article-thumbnails/22.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/22.png", 
 		"articleTitle":"Trump mocked Obama for bowing to a Saudi king. And then he ...",
 		"articleSubtitle":"Read the article on washingtonpost.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">.<a href=\"https://twitter.com/BarackObama\">@BarackObama</a> bowed to the Saudi King in public--yet the Dems are questioning <a href=\"https://twitter.com/MittRomney\">@MittRomney</a>&#39;s diplomatic skills.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/230033235407671297\">July 30, 2012</a></blockquote>"
@@ -201,7 +201,7 @@
 		"articleNo":23,
 		"articleDate":"04/07/2017",
 		"articleUrl":"http://www.cbsnews.com/news/how-trump-was-able-to-order-u-s-strikes-on-syria-without-congressional-approval/", 
-		"articleImageUrl":"i/news-article-thumbnails/23.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/23.png", 
 		"articleTitle":"How Trump was able to order U.S. strikes on Syria without congressional approval",
 		"articleSubtitle":"Read the article on cbsnews.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">What will we get for bombing Syria besides more debt and a possible long term conflict? Obama needs Congressional approval.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/373146637184401408\">August 29, 2013</a></blockquote>"
@@ -210,7 +210,7 @@
 		"articleNo":24,
 		"articleDate":"04/14/2017",
 		"articleUrl":"https://www.nytimes.com/2017/04/14/us/politics/visitor-log-white-house-trump.html", 
-		"articleImageUrl":"i/news-article-thumbnails/24.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/24.png", 
 		"articleTitle":"White House to Keep Its Visitor Logs Secret",
 		"articleSubtitle":"Read the article on nytimes.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Why does Obama believe he shouldn&#39;t comply with record releases that his predecessors did of their own volition? Hiding something?</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/263348204068810752\">October 30, 2012</a></blockquote>"
@@ -219,7 +219,7 @@
 		"articleNo":25,
 		"articleDate":"04/14/2017",
 		"articleUrl":"http://www.newyorker.com/news/news-desk/trump-drops-the-mother-of-all-bombs-on-afghanistan", 
-		"articleImageUrl":"i/news-article-thumbnails/25.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/25.png", 
 		"articleTitle":"TRUMP DROPS THE MOTHER OF ALL BOMBS ON AFGHANISTAN",
 		"articleSubtitle":"Read the article on newyorker.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Let’s get out of Afghanistan. Our troops are being killed by the Afghanis we train and we waste billions there. Nonsense!  Rebuild the USA.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/289807790178959360\">January 11, 2013</a></blockquote>"
@@ -228,7 +228,7 @@
 		"articleNo":26,
 		"articleDate":"03/24/2017",
 		"articleUrl":"https://www.nytimes.com/2017/03/24/us/politics/donald-trump-health-care.html", 
-		"articleImageUrl":"i/news-article-thumbnails/26.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/26.png", 
 		"articleTitle":"In a Call to The Times, Trump Blames Democrats for the Failure of the Health Bill",
 		"articleSubtitle":"Read the article on nytimes.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Obama&#39;s complaints about Republicans stopping his agenda are BS since he had full control for two years. He can never take responsibility.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/250975772083380226\">September 26, 2012</a></blockquote>"
@@ -237,7 +237,7 @@
 		"articleNo":27,
 		"articleDate":"03/25/2017",
 		"articleUrl":"http://www.cnn.com/2017/03/24/politics/house-health-care-vote/", 
-		"articleImageUrl":"i/news-article-thumbnails/27.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/27.png", 
 		"articleTitle":"House Republicans pull health care bill",
 		"articleSubtitle":"Read the article on cnn.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Just shows that you can have all the cards and lose if you don’t know what you’re doing.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/286952264122396672\">January 3, 2013</a></blockquote>"
@@ -246,7 +246,7 @@
 		"articleNo":28,
 		"articleDate":"03/30/2017",
 		"articleUrl":"https://www.wsj.com/articles/mike-flynn-offers-to-testify-in-exchange-for-immunity-1490912959", 
-		"articleImageUrl":"i/news-article-thumbnails/28.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/28.png", 
 		"articleTitle":"Mike Flynn Offers to Testify in Exchange for Immunity",
 		"articleSubtitle":"Read the article on wsj.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">ATTN: <a href=\"https://twitter.com/HillaryClinton\">@HillaryClinton</a> - Why did five of your staffers need FBI IMMUNITY?! <a href=\"https://twitter.com/hashtag/BigLeagueTruth?src=hash\">#BigLeagueTruth</a> <a href=\"https://twitter.com/hashtag/Debates?src=hash\">#Debates</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/785291193194254336\">October 10, 2016</a></blockquote>"
@@ -255,7 +255,7 @@
 		"articleNo":29,
 		"articleDate":"02/17/2017",
 		"articleUrl":"http://www.cbsnews.com/news/trump-to-hold-campaign-style-rally-in-florida/", 
-		"articleImageUrl":"i/news-article-thumbnails/29.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/29.png", 
 		"articleTitle":"Trump to hold campaign-style rally in Florida",
 		"articleSubtitle":"Read the article on cbsnews.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">We pay for Obama&#39;s travel so he can fundraise millions so Democrats can run on lies. Then we pay for his golf.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/522108442514038784\">October 14, 2014</a></blockquote>"
@@ -264,7 +264,7 @@
 		"articleNo":30,
 		"articleDate":"03/13/2017",
 		"articleUrl":"https://www.washingtonpost.com/powerpost/obamacare-revision-would-reduce-insured-numbers-by-24-million/2017/03/13/ea4c860a-0829-11e7-93dc-00f9bdd74ed1_story.html?utm_term=.cb2bf77b8e27", 
-		"articleImageUrl":"i/news-article-thumbnails/30.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/30.png", 
 		"articleTitle":"Affordable Care Act revision would reduce insured numbers by 24 million, CBO projects",
 		"articleSubtitle":"Read the article on washingtonpost.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">It’s Thursday. How many people have lost their healthcare today?</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/421398464472162304\">January 9, 2014</a></blockquote>"
@@ -273,7 +273,7 @@
 		"articleNo":31,
 		"articleDate":"12/07/2016",
 		"articleUrl":"https://www.nytimes.com/2016/12/07/business/media/donald-trump-time-person-of-the-year.html", 
-		"articleImageUrl":"i/news-article-thumbnails/31.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/31.png", 
 		"articleTitle":"Donald Trump Is Time’s Person of the Year, to No One’s Surprise",
 		"articleSubtitle":"Read the article on nytimes.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">I told you <a href=\"https://twitter.com/TIME\">@TIME</a> Magazine would never pick me as person of the year despite being the big favorite They picked person who is ruining Germany</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/674587800835092480\">December 9, 2015</a></blockquote>"
@@ -282,7 +282,7 @@
 		"articleNo":32,
 		"articleDate":"06/08/2016",
 		"articleUrl":"http://abcnews.go.com/Politics/donald-trumps-begrudging-teleprompters/story?id=39696587", 
-		"articleImageUrl":"i/news-article-thumbnails/32.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/32.png", 
 		"articleTitle":"Donald Trump's Begrudging Use of Teleprompters",
 		"articleSubtitle":"Read the article on abcnews.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Hillary Clinton made a speech today using the biggest teleprompter I have ever seen. In fact, it wasn&#39;t even see through glass, it was black</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/640277396785119232\">September 5, 2015</a></blockquote>"
@@ -291,7 +291,7 @@
 		"articleNo":33,
 		"articleDate":"05/16/2017",
 		"articleUrl":"https://www.nytimes.com/2017/05/16/us/politics/james-comey-trump-flynn-russia-investigation.html", 
-		"articleImageUrl":"i/news-article-thumbnails/33.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/33.png", 
 		"articleTitle":"Comey Memo Says Trump Asked Him to End Flynn Investigation",
 		"articleSubtitle":"Read the article on nytimes.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">I have been asking Director Comey &amp; others, from the beginning of my administration, to find the LEAKERS in the intelligence community.....</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/864452996129853444\">May 16, 2017</a></blockquote>"
@@ -300,7 +300,7 @@
 		"articleNo":34,
 		"articleDate":"11/11/2016",
 		"articleUrl":"http://www.businessinsider.com/donald-trump-anti-trump-protests-unfair-2016-11", 
-		"articleImageUrl":"i/news-article-thumbnails/34.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/34.png", 
 		"articleTitle":"Donald Trump says protests against him are 'incited by the media,' calls them 'very unfair'",
 		"articleSubtitle":"Read the article on businessinsider.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">We can&#39;t let this happen. We should march on Washington and stop this travesty. Our nation is totally divided!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/266034630820507648\">November 7, 2012</a></blockquote>"
@@ -309,7 +309,7 @@
 		"articleNo":35,
 		"articleDate":"05/24/2017",
 		"articleUrl":"http://www.reuters.com/article/us-northkorea-missiles-submarines-idUSKBN18K15Y", 
-		"articleImageUrl":"i/news-article-thumbnails/35.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/35.png", 
 		"articleTitle":"Trump tells Duterte of two U.S. nuclear subs in Korean waters: NYT",
 		"articleSubtitle":"Read the article on reuters.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">WikiLeaks proves even the Clinton campaign knew Crooked mishandled classified info, but no one gets charged? RIGGED! <a href=\"https://t.co/FgGxDsS0a1\">https://t.co/FgGxDsS0a1</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/788031447932215300\">October 17, 2016</a></blockquote>"
@@ -318,7 +318,7 @@
 		"articleNo":36,
 		"articleDate":"05/25/2017",
 		"articleUrl":"https://www.usatoday.com/story/news/politics/onpolitics/2017/05/25/president-trump-calls-germans-very-bad-and-promises-stop-car-imports-report/102162310/", 
-		"articleImageUrl":"i/news-article-thumbnails/36.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/36.png", 
 		"articleTitle":"President Trump calls Germans 'very bad' and promises to stop car imports: report",
 		"articleSubtitle":"Read the article on usatoday.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Angela Merkel is doing a fantastic job as the Chancellor of Germany. Youth unemployment is at a record low &amp; she has a budget surplus.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/385826942303211521\">October 3, 2013</a></blockquote>"
@@ -327,7 +327,7 @@
 		"articleNo":37,
 		"articleDate":"05/04/2017",
 		"articleUrl":"https://www.usatoday.com/story/news/politics/2017/04/18/president-trumps-mar--lago-visits-generate-buzz-cost-millions/100615240/", 
-		"articleImageUrl":"i/news-article-thumbnails/37.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/37.png", 
 		"articleTitle":"President Trump's Mar-a-Lago visits generate buzz, cost millions",
 		"articleSubtitle":"Read the article on usatoday.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">If Obama is concerned about the border, he should stop vacationing. Gov&#39;t will save millions which it can use to stop illegal migration.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/489774991148601344\">July 17, 2014</a></blockquote>"
@@ -336,7 +336,7 @@
 		"articleNo":38,
 		"articleDate":"11/27/2016",
 		"articleUrl":"http://www.cnbc.com/2016/11/26/donald-trump-blasts-jill-stein-scam-recount-effort-issues-call-to-accept-results.html", 
-		"articleImageUrl":"i/news-article-thumbnails/38.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/38.png", 
 		"articleTitle":"Donald Trump blasts Jill Stein 'scam' Wisconsin recount, issues call to accept results",
 		"articleSubtitle":"Read the article on cnbc.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">I will be asking for a major investigation into VOTER FRAUD, including those registered to vote in two states, those who are illegal and....</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/824227824903090176\">January 25, 2017</a></blockquote>"
@@ -345,7 +345,7 @@
 		"articleNo":39,
 		"articleDate":"05/19/2017",
 		"articleUrl":"https://www.nytimes.com/2017/05/19/climate/trump-epa-budget-superfund.html", 
-		"articleImageUrl":"i/news-article-thumbnails/39.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/39.png", 
 		"articleTitle":"Trump Budget Would Cut E.P.A. Science Programs and Slash Cleanups",
 		"articleSubtitle":"Read the article on nytimes.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">I am committed to keeping our air and water clean but always remember that economic growth enhances environmental protection. Jobs matter!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/855901315305795584\">April 22, 2017</a></blockquote>"
@@ -354,7 +354,7 @@
 		"articleNo":40,
 		"articleDate":"05/24/2017",
 		"articleUrl":"https://www.nytimes.com/2017/05/24/us/politics/cbo-congressional-budget-office-health-care.html", 
-		"articleImageUrl":"i/news-article-thumbnails/40.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/40.png", 
 		"articleTitle":"G.O.P. Health Bill Would Leave 23 Million More Uninsured in a Decade, C.B.O. Says",
 		"articleSubtitle":"Read the article on nytimes.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Millions losing healthcare plans despite President Obama&#39;s promise that this WOULD NOT HAPPEN! What about a massive protest march on D.C.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/396552607575314432\">November 2, 2013</a></blockquote>"

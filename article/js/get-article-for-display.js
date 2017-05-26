@@ -1,4 +1,3 @@
-this.articleNumber = -1;
 this.compareData = "";
 this.getCompareData();
 
@@ -20,36 +19,28 @@ window.twttr = (function(d, s, id) {
 }(document, "script", "twitter-wjs"));
 
 $(window).on("load", function() {
-	this.loadInitialCompareElements();
+	this.getSpecifiedArticle();
 });
 
-$(window).scroll(function() {
-	if($(window).scrollTop() + $(window).height() >= $(document).height() - ($(document).height()/30)) {
-		this.appendNewCompareElement();
-	}
-});
-
-function loadInitialCompareElements(){
-	for(var i = 0; i < 3; i++){
-		this.appendNewCompareElement();
+function getSpecifiedArticle(){
+	var articleNumberFromUrl = $.urlParam("articleNumber");
+	if( !isNaN(articleNumberFromUrl)) {
+		this.appendNewCompareElement(articleNumberFromUrl);
 	}
 }
 
-function appendNewCompareElement(){
-	if(this.articleNumber < this.compareData.length-1){
-		this.articleNumber ++;		
-		var newCompareElement = this.createNewCompareElement(this.articleNumber);
-		$(".main-compare-container").append(newCompareElement);
-		twttr.widgets.load(document.body); 
-		this.animateNewCompareElements();
-	}
+function appendNewCompareElement(articleNumber){
+	var newCompareElement = this.createNewCompareElement(articleNumber);
+	$(".main-compare-container").append(newCompareElement);
+	twttr.widgets.load(document.body); 
+	this.animateNewCompareElements();
 }
 
 function animateNewCompareElements(){
 	var newsElements = $(".cheeto-tweet.new");   
 	var tweetElements = $(".news-article.new");  
-	if((newsElements.length == tweetElements.length) && newsElements.length > 0){
-		for(var i = 0; i < newsElements.length; i++){
+	if ((newsElements.length == tweetElements.length) && newsElements.length > 0) {
+		for (var i = 0; i < newsElements.length; i++) {
 			slideInBothCompareElements()
 		}
 	}
@@ -108,4 +99,15 @@ function dateSort(a, b) {
 
 function setCompareData(data){
     this.compareData = data;
+}
+
+$.urlParam = function(name, url) {
+    if (!url) {
+     url = window.location.href;
+    }
+    var results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(url);
+    if (!results) { 
+        return undefined;
+    }
+    return results[1] || undefined;
 }
