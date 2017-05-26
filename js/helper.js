@@ -2,8 +2,25 @@ this.articleNumber = -1;
 this.compareData = "";
 this.getCompareData();
 
-$(document).ready(function(){
-	//this.loadInitialCompareElements();
+window.twttr = (function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0],
+	t = window.twttr || {};
+	if (d.getElementById(id)) return t;
+	js = d.createElement(s);
+	js.id = id;
+	js.src = "https://platform.twitter.com/widgets.js";
+	fjs.parentNode.insertBefore(js, fjs);
+
+	t._e = [];
+	t.ready = function(f) {
+	t._e.push(f);
+	};
+
+	return t;
+}(document, "script", "twitter-wjs"));
+
+$(window).on("load", function() {
+	this.loadInitialCompareElements();
 });
 
 $(window).scroll(function() {
@@ -61,7 +78,11 @@ function createNewCompareElement(index){
 	var articleSubtitle = this.compareData[index].articleSubtitle;
 	var tweetHTML = this.compareData[index].tweetHTML;
 	var newCompareElement = "<div class=\"date-container\"><p class=\"date\">" + articleDate + "</p></div><div class=\"main-compare\"><!--<div class=\"date\"></div>--><div class=\"main-compare-row row small-collapse medium-uncollapse\"><div class=\"cheeto-tweet new small-12 medium-6 large-6 columns\"><div class=\"cheeto-tweet-container\">" + tweetHTML + "</div></div><div class=\"news-article new small-12 medium-6 large-6 columns\"><div class=\"news-article-container\"><a href=\"" + articleUrl + "\" target=\"_blank\"><img class=\"news-article-img\" src=\"" + articleImageUrl + "\"/></a><div class=\"news-article-title-link-container\"><h4 class=\"news-article-title\"><a class=\"news-article-title-link\" href=\"" + articleUrl + "\" target=\"_blank\">" + articleTitle + "</a></h4><a class=\"news-article-link\" href=\"" + articleUrl + "\" target=\"_blank\">" + articleSubtitle + "</a></div></div></div></div></div>";
-	return newCompareElement;
+	if (!newCompareElement.includes("<script>") && !newCompareElement.includes("<iframe>") && !newCompareElement.includes("onerror")) {
+		return newCompareElement;
+	} else {
+		return "";
+	}
 }
 
 function getCompareData(){
@@ -87,5 +108,4 @@ function dateSort(a, b) {
 
 function setCompareData(data){
     this.compareData = data;
-	this.loadInitialCompareElements();
 }

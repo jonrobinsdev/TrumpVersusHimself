@@ -2,6 +2,7 @@ html{
 }
 
 body, html {
+	max-width: 100%;
 	background-color: #4286F5;
 }
 
