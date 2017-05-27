@@ -277,7 +277,9 @@ blockquote.twitter-tweet a:focus {
 }
 
 .return-link-container{
-	margin-top: 10%;
+	display: inline-block;
+	position:relative;
+	margin-top: 5%;
 	margin-bottom: 10%;
 	width: 100%;
 	height:auto;
