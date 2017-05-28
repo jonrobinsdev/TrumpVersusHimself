@@ -72,7 +72,7 @@ blockquote.twitter-tweet a:focus {
 
 .header{
     position:relative;
-    width: 99.1vw;
+    width: 100vw;
     height: 30vh;
 	display: inline-block;
 	border-color: #eee #ddd #bbb;
@@ -117,6 +117,24 @@ blockquote.twitter-tweet a:focus {
 	padding-right: 2%;
 }
 
+.header-links{
+	position: relative;
+	width: 100%;
+	text-align: center;
+	top: 50%;
+	transform: translateY(-120%);
+}
+
+.header-links a{
+	color: white;
+	text-shadow: 1px 1px 1px black;
+	font-family: "Antonio-Regular", "VengeanceRegular", Tahoma, Verdana, Arial;
+	text-decoration: underline;
+	font-size: 2.5vh;
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
 .date-container{
 	position: relative;
 	height: 5%;
@@ -131,41 +149,7 @@ blockquote.twitter-tweet a:focus {
 	padding-bottom: 3%;
 	color: white;
 	text-shadow: 1px 1px 2px black;
-	text-decoration: underline;
 }
-
-/*.fancy {
-	line-height: 0.5;
-	text-align: center;
-}
-
-.fancy span {
-	display: inline-block;
-	position: relative;  
-}
-
-.fancy span:before,
-.fancy span:after {
-	content: "";
-	position: absolute;
-	height: 5px;
-	border-bottom: 1px solid black;
-	border-top: 1px solid black;
-	top: 35%;
-	width: 20vw;
-}
-
-.fancy span:before {
-	right: 100%;
-	margin-right: 20px;
-	margin-left: 20%;
-}
-
-.fancy span:after {
-	left: 100%;
-	margin-left: 20px;
-	margin-right: 20%;
-}*/
 
 .main-compare{
     padding-left: 20px;
@@ -342,10 +326,22 @@ blockquote.twitter-tweet a:focus {
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
-
+		.main-compare-row{
+		width: 90%;
+	}
+	.title{
+		margin-left: 20%;
+		margin-right: 20%;
+	}
 }
 
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
-
+		.main-compare-row{
+		width: 90%;
+	}
+	.title{
+		margin-left: 20%;
+		margin-right: 20%;
+	}
 }
