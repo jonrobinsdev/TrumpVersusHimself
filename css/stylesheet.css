@@ -17,15 +17,6 @@ body {
 hr{
 }
 
-@keyframes slideInFromLeft {
-    0% {
-        transform: translateX(-100%);
-    }
-    100% {
-        transform: translateX(0);
-    }
-}
-
 blockquote.twitter-tweet {
   display: inline-block;
   font-family: "Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif;
@@ -149,6 +140,7 @@ blockquote.twitter-tweet a:focus {
 	padding-bottom: 3%;
 	color: white;
 	text-shadow: 1px 1px 2px black;
+	text-decoration: underline;
 }
 
 .main-compare{
