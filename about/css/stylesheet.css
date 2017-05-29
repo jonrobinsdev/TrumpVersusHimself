@@ -30,7 +30,7 @@ hr{
 .header{
     position:relative;
     width: 100vw;
-    height: 30%;
+    height: 30vh;
 	display: inline-block;
 	border-color: #eee #ddd #bbb;
 	border-style: solid;

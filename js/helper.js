@@ -19,9 +19,10 @@ window.twttr = (function(d, s, id) {
 	return t;
 }(document, "script", "twitter-wjs"));
 
+/*
 $(window).on("load", function() {
 	this.loadInitialCompareElements();
-});
+});*/
 
 $(window).scroll(function() {
 	if($(window).scrollTop() + $(window).height() >= $(document).height() - ($(document).height()/30)) {
@@ -49,8 +50,14 @@ function animateNewCompareElements(){
 	var newsElements = $(".cheeto-tweet.new");   
 	var tweetElements = $(".news-article.new");  
 	if((newsElements.length == tweetElements.length) && newsElements.length > 0){
-		for(var i = 0; i < newsElements.length; i++){
-			slideInBothCompareElements()
+		if(newsElements.length > 1){
+			$(".cheeto-tweet.new").removeClass('new');
+			$(".news-article.new").removeClass('new');
+		}	
+		else{
+			for(var i = 0; i < newsElements.length; i++){
+				slideInBothCompareElements()
+			}
 		}
 	}
 }
@@ -92,8 +99,8 @@ function getCompareData(){
 		url: '/js/data.json',
 		dataType: 'json',
 		type: 'GET',
+		cache: false,
 		error: function(data){ 
-			console.log("Error retrieving data.");
 		}, 
 		success: function(data) {
 			response = JSON.parse(JSON.stringify(data));
@@ -109,4 +116,5 @@ function dateSort(a, b) {
 
 function setCompareData(data){
     this.compareData = data;
+	this.loadInitialCompareElements();
 }
