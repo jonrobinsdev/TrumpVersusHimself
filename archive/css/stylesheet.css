@@ -119,6 +119,7 @@ hr{
 	font-size: 2.5vh;
 	text-decoration: underline;
 	font-family: "Antonio-Regular", "VengeanceRegular", Tahoma, Verdana, Arial;
+	text-shadow: 1px 1px 2px black;
 }
 
 .article-list{
