@@ -6,7 +6,7 @@
 	"articleNo":0,
 	"articleDate":"05/05/2017",
 	"articleUrl":"", 
-	"articleImageUrl":"i/news-article-thumbnails/0.png", 
+	"articleImageUrl":"/i/news-article-thumbnails/0.png", 
 	"articleTitle":"",
 	"articleSubtitle":"Read the article on cnn.com >",
 	"tweetHTML":""

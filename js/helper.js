@@ -78,7 +78,7 @@ function slideInRight(){
 }
 
 function createNewCompareElement(index){
-	var articleNumber = index;
+	var articleNumber = this.compareData[index].articleNo;
 	var articleDate = this.compareData[index].articleDate;
 	var articleUrl = this.compareData[index].articleUrl;
 	var articleImageUrl = this.compareData[index].articleImageUrl;

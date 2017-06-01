@@ -372,7 +372,7 @@
 		"articleNo":42,
 		"articleDate":"05/28/2017",
 		"articleUrl":"http://www.politico.com/story/2017/05/28/trump-fake-news-media-238894", 
-		"articleImageUrl":"i/news-article-thumbnails/42.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/42.png", 
 		"articleTitle":"Trump accuses 'fake news' media of making up sources",
 		"articleSubtitle":"Read the article on politico.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">An &#39;extremely credible source&#39; has called my office and told me that <a href=\"https://twitter.com/BarackObama\">@BarackObama</a>&#39;s birth certificate is a fraud.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/232572505238433794\">August 6, 2012</a></blockquote>"
@@ -381,9 +381,54 @@
 		"articleNo":43,
 		"articleDate":"05/28/2017",
 		"articleUrl":"http://www.chicagotribune.com/news/nationworld/politics/ct-trump-merkel-europe-relations-20170528-story.html", 
-		"articleImageUrl":"i/news-article-thumbnails/43.png", 
+		"articleImageUrl":"/i/news-article-thumbnails/43.png", 
 		"articleTitle":"Following Trump's trip, Merkel says Europe can't rely on U.S. anymore",
 		"articleSubtitle":"Read the article on chicagotribune.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Just returned from Europe. Trip was a great success for America. Hard work but big results!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/868801710038372352\">May 28, 2017</a></blockquote>"
+	},
+	{
+		"articleNo":44,
+		"articleDate":"03/31/2017",
+		"articleUrl":"http://www.cnn.com/2017/03/30/politics/donald-trump-white-house-staff/", 
+		"articleImageUrl":"/i/news-article-thumbnails/44.png", 
+		"articleTitle":"White House staff shake-up comes in wake of health care debacle",
+		"articleSubtitle":"Read the article on cnn.com >",
+		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">The woman who is the Secret Service Director looks like she is way over her head.Why can&#39;t the president appoint the best and the brightest?</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/517254712618672128\">October 1, 2014</a></blockquote>"
+	},
+	{
+		"articleNo":45,
+		"articleDate":"03/21/2017",
+		"articleUrl":"http://www.cnn.com/2017/03/21/politics/ivanka-trump-west-wing/", 
+		"articleImageUrl":"/i/news-article-thumbnails/45.png", 
+		"articleTitle":"Ivanka Trump to get top security clearance and office, WH official says",
+		"articleSubtitle":"Read the article on cnn.com >",
+		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">I am not trying to get &quot;top level security clearance&quot; for my children. This was a typically false news story.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/798850338384023552\">November 16, 2016</a></blockquote>"
+	},
+	{
+		"articleNo":46,
+		"articleDate":"05/31/17",
+		"articleUrl":"http://thehill.com/homenews/administration/335818-white-house-to-stop-taking-questions-about-trump-russia-investigation", 
+		"articleImageUrl":"/i/news-article-thumbnails/46.png", 
+		"articleTitle":"White House will stop taking questions about Trump, Russia investigation",
+		"articleSubtitle":"Read the article on thehill.com >",
+		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">President Obama refuses to answer question about Iran terror funding.  I won&#39;t dodge questions as your President. <a href=\"https://t.co/jsAMGO3s4P\">https://t.co/jsAMGO3s4P</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/761386080272875520\">August 5, 2016</a></blockquote>"
+	},
+	{
+		"articleNo":47,
+		"articleDate":"05/18/17",
+		"articleUrl":"https://www.washingtonpost.com/graphics/politics/trump-claims-database/?utm_term=.9e92ad5a88c3", 
+		"articleImageUrl":"/i/news-article-thumbnails/47.png", 
+		"articleTitle":"In 119 days, President Trump has made 586 false and misleading claims",
+		"articleSubtitle":"View the graphic on washingtonpost.com >",
+		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">No president in history has lied to the American people more than President Obama - in fact, it is not even close!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/475640516822855680\">June 8, 2014</a></blockquote>"
+	},
+	{
+		"articleNo":48,
+		"articleDate":"06/01/17",
+		"articleUrl":"http://www.cnn.com/2017/06/01/europe/eu-us-climate/index.html", 
+		"articleImageUrl":"/i/news-article-thumbnails/48.png", 
+		"articleTitle":"EU, China unite behind Paris climate deal despite Trump withdrawal",
+		"articleSubtitle":"Read the article on cnn.com >",
+		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">China is the biggest environmental polluter in the World, by far. They do nothing to clean up their factories and laugh at our stupidity!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/318113046822273027\">March 30, 2013</a></blockquote>"
 	}
 ]

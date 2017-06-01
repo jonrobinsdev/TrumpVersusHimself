@@ -63,7 +63,9 @@ function slideInRight(){
 	$(".news-article.new").removeClass('new');
 }
 
-function createNewCompareElement(index){
+function createNewCompareElement(articleNo){
+	var index = getIndexByArticleNo(this.compareData, 'articleNo', articleNo);
+	console.log(index);
 	var articleDate = this.compareData[index].articleDate;
 	var articleUrl = this.compareData[index].articleUrl;
 	var articleImageUrl = this.compareData[index].articleImageUrl;
@@ -76,6 +78,15 @@ function createNewCompareElement(index){
 	} else {
 		return "";
 	}
+}
+
+function getIndexByArticleNo(array, attr, value) {
+    for(var i = 0; i < array.length; i += 1) {
+        if(array[i][attr].toString() === value.toString()) {
+            return i;
+        }
+    }
+    return -1;
 }
 
 function getCompareData(){
