@@ -67,6 +67,16 @@ hr{
 	margin-left: 36%;
 	margin-right: 35%;
 	border-radius: 3px;
+	cursor: pointer;
+	z-index: 10;
+}
+
+.title span{
+	z-index: 5;
+}
+
+.title:hover{
+	background-color: rgba(0,0,0,.30);
 }
 
 .versus-label{
@@ -95,7 +105,7 @@ hr{
 .date{
 	font-family: "Antonio-Regular", "VengeanceRegular", Tahoma, Verdana, Arial;
 	position: relative;
-	font-size: 1.5em;
+	font-size: 2.5vh;
 	color: white;
 	text-shadow: 1px 1px 2px black;
 }

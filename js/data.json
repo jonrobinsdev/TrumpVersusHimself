@@ -406,7 +406,7 @@
 	},
 	{
 		"articleNo":46,
-		"articleDate":"05/31/17",
+		"articleDate":"05/31/2017",
 		"articleUrl":"http://thehill.com/homenews/administration/335818-white-house-to-stop-taking-questions-about-trump-russia-investigation", 
 		"articleImageUrl":"/i/news-article-thumbnails/46.png", 
 		"articleTitle":"White House will stop taking questions about Trump, Russia investigation",
@@ -415,7 +415,7 @@
 	},
 	{
 		"articleNo":47,
-		"articleDate":"05/18/17",
+		"articleDate":"05/18/2017",
 		"articleUrl":"https://www.washingtonpost.com/graphics/politics/trump-claims-database/?utm_term=.9e92ad5a88c3", 
 		"articleImageUrl":"/i/news-article-thumbnails/47.png", 
 		"articleTitle":"In 119 days, President Trump has made 586 false and misleading claims",
@@ -424,11 +424,47 @@
 	},
 	{
 		"articleNo":48,
-		"articleDate":"06/01/17",
+		"articleDate":"06/01/2017",
 		"articleUrl":"http://www.cnn.com/2017/06/01/europe/eu-us-climate/index.html", 
 		"articleImageUrl":"/i/news-article-thumbnails/48.png", 
 		"articleTitle":"EU, China unite behind Paris climate deal despite Trump withdrawal",
 		"articleSubtitle":"Read the article on cnn.com >",
 		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">China is the biggest environmental polluter in the World, by far. They do nothing to clean up their factories and laugh at our stupidity!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/318113046822273027\">March 30, 2013</a></blockquote>"
+	},
+	{
+		"articleNo":49,
+		"articleDate":"05/31/2017",
+		"articleUrl":"https://www.washingtonpost.com/news/post-politics/wp/2017/05/31/white-house-grants-ethics-waivers-to-17-appointees-including-four-former-lobbyists/?utm_term=.e6eedb86b11c", 
+		"articleImageUrl":"/i/news-article-thumbnails/49.png", 
+		"articleTitle":"White House grants ethics waivers to 17 appointees, including four former lobbyists",
+		"articleSubtitle":"Read the article on washingtonpost.com >",
+		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">I will Make Our Government Honest Again -- believe me. But first, I&#39;m going to have to <a href=\"https://twitter.com/hashtag/DrainTheSwamp?src=hash\">#DrainTheSwamp</a> in DC. <a href=\"https://t.co/m1lMAQPnIb\">https://t.co/m1lMAQPnIb</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/788402585816276992\">October 18, 2016</a></blockquote>"
+	},
+	{
+		"articleNo":50,
+		"articleDate":"06/04/2017",
+		"articleUrl":"http://www.washingtonexaminer.com/trump-heads-to-his-golf-course-after-london-attack-tweets/article/2624902", 
+		"articleImageUrl":"/i/news-article-thumbnails/50.png", 
+		"articleTitle":"Trump heads to his golf course after London attack tweets",
+		"articleSubtitle":"Read the article on washingtonexaminer.com >",
+		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">&quot;<a href=\"https://twitter.com/TheBigJamesG\">@TheBigJamesG</a>: What kind of president doesn&#39;t get playing golf after a cruel beheading isn&#39;t the thing to do? Detached from reality he is&quot;</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/509316677033807872\">September 9, 2014</a></blockquote>"
+	},
+	{
+		"articleNo":51,
+		"articleDate":"04/28/2017",
+		"articleUrl":"http://www.businessinsider.com/trump-ted-cruz-nra-like-dislike-like-2017-4?r=US&IR=T", 
+		"articleImageUrl":"/i/news-article-thumbnails/51.png", 
+		"articleTitle":"Trump on Ted Cruz: 'Like. Dislike. Like.'",
+		"articleSubtitle":"Read the article on businessinsider.com >",
+		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Senator <a href=\"https://twitter.com/LindseyGrahamSC\">@LindseyGrahamSC</a> made horrible statements about <a href=\"https://twitter.com/SenTedCruz\">@SenTedCruz</a> – and then he endorsed him. No wonder nobody trusts politicians!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/710904553219219456\">March 18, 2016</a></blockquote>"
+	},
+	{
+		"articleNo":52,
+		"articleDate":"06/02/2017",
+		"articleUrl":"https://www.washingtonpost.com/world/national-security/nunes-led-house-intelligence-committee-requested-unmaskings-of-americans/2017/06/02/5c098dc0-47bc-11e7-98cd-af64b4fe2dfc_story.html?utm_term=.90fc6b9a8e5b", 
+		"articleImageUrl":"/i/news-article-thumbnails/52.png", 
+		"articleTitle":"Nunes-led House Intelligence Committee asked for ‘unmaskings’ of Americans",
+		"articleSubtitle":"Read the article on washingtonpost.com >",
+		"tweetHTML":"<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">The big story is the &quot;unmasking and surveillance&quot; of people that took place during the Obama Administration.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href=\"https://twitter.com/realDonaldTrump/status/870234811616677889\">June 1, 2017</a></blockquote>"
 	}
 ]
