@@ -15,7 +15,7 @@ function createArticleList(){
 }
 
 function createNewCompareElement(index){
-	var articleNumber = index;
+	var articleNumber = this.compareData[index].articleNo;
 	var articleDate = this.compareData[index].articleDate;
 	var articleTitle = this.compareData[index].articleTitle;
 
